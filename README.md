@@ -5,3 +5,4 @@ Basic setup for the solitaire game is made in solitaire.py and at the moment gam
 should be done before starting the machine learning implementation.
 
 Idea is to have all possible moves as an input to the neural network used and have the neural network choose the best move as an output.
+Possibly the use of an RNN is necessary to have memory how the game has gone.
