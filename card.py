@@ -1,6 +1,6 @@
 # Card class
 
 class card(object):
-    def __init__(self, value, suite):
+    def __init__(self, value, suit):
         self.value = value
-        self.suite = suite
+        self.suit = suit
